@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: ee5147316cd7dd84ab7ace225ee23fe5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3D_Models_at_3dxy001
+    100002: Circle002
+    100004: Circle004
+    100006: Circle005
+    100008: Circle006
+    100010: Circle007
+    100012: Circle008
+    100014: Circle009
+    100016: Circle010
+    100018: Circle011
+    100020: Circle013
+    100022: Circle014
+    100024: Circle015
+    100026: Circle016
+    100028: Circle017
+    100030: Rectangle002
+    100032: Rectangle003
+    100034: Rectangle004
+    100036: Rectangle005
+    100038: Rectangle006
+    100040: Rectangle008
+    100042: Rectangle009
+    100044: Rectangle010
+    100046: //RootNode
+    400000: 3D_Models_at_3dxy001
+    400002: Circle002
+    400004: Circle004
+    400006: Circle005
+    400008: Circle006
+    400010: Circle007
+    400012: Circle008
+    400014: Circle009
+    400016: Circle010
+    400018: Circle011
+    400020: Circle013
+    400022: Circle014
+    400024: Circle015
+    400026: Circle016
+    400028: Circle017
+    400030: Rectangle002
+    400032: Rectangle003
+    400034: Rectangle004
+    400036: Rectangle005
+    400038: Rectangle006
+    400040: Rectangle008
+    400042: Rectangle009
+    400044: Rectangle010
+    400046: //RootNode
+    2100000: asdwfault
+    2100002: 12 - Default
+    2100004: "\u91D1\u8272"
+    2100006: 10 - Default
+    2100008: dfgrDefault
+    2300000: Circle002
+    2300002: Circle004
+    2300004: Circle005
+    2300006: Circle006
+    2300008: Circle007
+    2300010: Circle008
+    2300012: Circle009
+    2300014: Circle010
+    2300016: Circle011
+    2300018: Circle013
+    2300020: Circle014
+    2300022: Circle015
+    2300024: Circle016
+    2300026: Circle017
+    2300028: Rectangle002
+    2300030: Rectangle003
+    2300032: Rectangle004
+    2300034: Rectangle005
+    2300036: Rectangle006
+    2300038: Rectangle008
+    2300040: Rectangle009
+    2300042: Rectangle010
+    3300000: Circle002
+    3300002: Circle004
+    3300004: Circle005
+    3300006: Circle006
+    3300008: Circle007
+    3300010: Circle008
+    3300012: Circle009
+    3300014: Circle010
+    3300016: Circle011
+    3300018: Circle013
+    3300020: Circle014
+    3300022: Circle015
+    3300024: Circle016
+    3300026: Circle017
+    3300028: Rectangle002
+    3300030: Rectangle003
+    3300032: Rectangle004
+    3300034: Rectangle005
+    3300036: Rectangle006
+    3300038: Rectangle008
+    3300040: Rectangle009
+    3300042: Rectangle010
+    4300000: Rectangle002
+    4300002: Rectangle003
+    4300004: Circle002
+    4300006: Circle004
+    4300008: Circle005
+    4300010: Circle006
+    4300012: Circle007
+    4300014: Circle008
+    4300016: Circle009
+    4300018: Circle010
+    4300020: Circle011
+    4300022: Circle013
+    4300024: Rectangle004
+    4300026: Circle014
+    4300028: Circle015
+    4300030: Circle016
+    4300032: Circle017
+    4300034: Rectangle005
+    4300036: Rectangle006
+    4300038: Rectangle008
+    4300040: Rectangle009
+    4300042: Rectangle010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

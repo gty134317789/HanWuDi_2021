@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 6c47569e3dfc63a469702d8029ec3bd7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: VineLarge2
+    2100002: VineLarge2.1
+    2100004: Leaf_1
+    2100006: WeedLeaf
+    2100008: Grass1
+    2100010: Rocks2
+    2100012: VineLarge2.2
+    2100014: Leaf_1.1
+    2100016: EdgeStone2
+    2100018: WaterLily
+    2100020: PondWater
+    2100022: Grass2
+    2100024: Pave1
+    2100026: Steps
+    2100028: EdgeStone2.1
+    2100030: EdgeStoneLow
+    2100032: PondBase
+    2100034: PlasterB
+    2100036: GroundPlant2
+    2100038: GroundPlant2.1
+    2100040: Bark_Trunk
+    2100042: Bark_Trunk.1
+    2100044: Branch
+    2100046: PineNeedles
+    2100048: GroundDirt
+    2100050: Concrete
+    2100052: Rooftiles
+    2100054: WoodGreen
+    2100056: Concrete.1
+    2100058: Concrete.2
+    2100060: archdetail1
+    2100062: Grass2.1
+    2100064: Columns
+    2100066: ScreenDoorsFrames
+    2100068: ScreenDoorsFrames.1
+    2100070: PlasterB.1
+    2100072: PlasterB.2
+    2100074: WoodGreen.1
+    2100076: EdgeStoneLow.1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: "\u9B54\u987F\u7F51\u514D\u8D39C4D\u8D44\u6E90_www_modown_cn"
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spGroundDirt
+    second: {fileID: 2800000, guid: 19993de3b3003a34c9c56f77f2065224, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Bark
+    second: {fileID: 2800000, guid: 875c794fd6e27224086567474fce85a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_ColumnB
+    second: {fileID: 2800000, guid: 7b5b9746ba71b9f4ebf5971145acdd09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Concrete
+    second: {fileID: 2800000, guid: 30b6a7caf43e4b44e9fa103996c05b40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_EdgeStone
+    second: {fileID: 2800000, guid: f328a9f111e79184a848c146aca330e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_EdgeStones2
+    second: {fileID: 2800000, guid: 4490114a9419be74c88070f662cb791d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Grass1
+    second: {fileID: 2800000, guid: 46b0cd70dfcb0e348a18eaa897701414, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Grass2
+    second: {fileID: 2800000, guid: 999fee09b1c632d458ebbcae936e1de5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Ivy
+    second: {fileID: 2800000, guid: bd6270d5c9e85a1409292cd46e5afa71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Ivy2
+    second: {fileID: 2800000, guid: c3eb7840c5022bf4f956ccfe56cedc57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Pave1
+    second: {fileID: 2800000, guid: 14a43579448b3f24eb01cd39b2b76842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Pine
+    second: {fileID: 2800000, guid: 80b30bbdc0c9cde488318f4c0d483150, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_PineBranch
+    second: {fileID: 2800000, guid: a9d52242e61a92544a868974918dbc6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Plaster
+    second: {fileID: 2800000, guid: 859cd6160cfa5f6449d6942308bf3c07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Plaster2
+    second: {fileID: 2800000, guid: a882c8179395ec84e9ec968f1da9eaa1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_PondBase
+    second: {fileID: 2800000, guid: 4f59e6ac08be9b946a1df5dee160cb88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_PondWater
+    second: {fileID: 2800000, guid: 0c377490b5572904f86282e45495702d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Rocks2
+    second: {fileID: 2800000, guid: 71a90a4c8253f0e42b277390b133f0c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Steps
+    second: {fileID: 2800000, guid: 75dd2d9cff54e9a488e9e16bd72045c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_VineBark
+    second: {fileID: 2800000, guid: 49260ccf323c3a84fb4818e06418f088, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Weed
+    second: {fileID: 2800000, guid: fff2027cc9c36da4e84a4d96d211b37f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_Weed2
+    second: {fileID: 2800000, guid: 45c9c9414e4e5af4b981e0ccad287bb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_det
+    second: {fileID: 2800000, guid: ee2c2443417632a458d4d4af2abc06e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_fence
+    second: {fileID: 2800000, guid: 7ef57f7a82c6a6949abe7a6fd35e9c7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_lilypad
+    second: {fileID: 2800000, guid: a277694e084f2a74d85b486e6e8c532d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_roof
+    second: {fileID: 2800000, guid: fa76d6121357b3c4391e7d3d7f877f4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_screen
+    second: {fileID: 2800000, guid: ba0fa09145c5db34185b7359b6f4f28e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sp_screen3
+    second: {fileID: 2800000, guid: 65fb299e56c74044db14281acda96013, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

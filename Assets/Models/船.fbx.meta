@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 02e1644400486bf449f171459b40c01a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _001
+    100002: modown_models_1
+    100004: modown_models_2
+    100006: modown_models_3
+    100008: modown_models_4
+    100010: modown_models_5
+    100012: "\u5929\u7A7A"
+    100014: "\u7A7A\u767D"
+    100016: //RootNode
+    100018: "\u9B54\u987F\u7F51\u514D\u8D39C4D\u8D44\u6E90\u4E0B\u8F7D"
+    400000: _001
+    400002: modown_models_1
+    400004: modown_models_2
+    400006: modown_models_3
+    400008: modown_models_4
+    400010: modown_models_5
+    400012: "\u5929\u7A7A"
+    400014: "\u7A7A\u767D"
+    400016: //RootNode
+    400018: "\u9B54\u987F\u7F51\u514D\u8D39C4D\u8D44\u6E90\u4E0B\u8F7D"
+    2100000: AM84_021_ Default
+    2100002: AM84_021_Glass no opac
+    2100004: AM84_021_glass
+    2100006: AM84_021_fault
+    2100008: AM84_021_03 - Default
+    2100010: AM84_021_rubber
+    2300000: modown_models_1
+    2300002: modown_models_2
+    2300004: modown_models_3
+    2300006: modown_models_4
+    2300008: modown_models_5
+    2300010: "\u9B54\u987F\u7F51\u514D\u8D39C4D\u8D44\u6E90\u4E0B\u8F7D"
+    3300000: modown_models_1
+    3300002: modown_models_2
+    3300004: modown_models_3
+    3300006: modown_models_4
+    3300008: modown_models_5
+    3300010: "\u9B54\u987F\u7F51\u514D\u8D39C4D\u8D44\u6E90\u4E0B\u8F7D"
+    4300000: "\u9B54\u987F\u7F51\u514D\u8D39C4D\u8D44\u6E90\u4E0B\u8F7D"
+    4300002: modown_models_1
+    4300004: modown_models_2
+    4300006: modown_models_3
+    4300008: modown_models_4
+    4300010: modown_models_5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM84_021_ Default
+    second: {fileID: 2100000, guid: aad30681b3b83bd4e94c814a8acf7a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM84_021_03 - Default
+    second: {fileID: 2100000, guid: a4a9d05cfc2814740afd73161dd85729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM84_021_Glass no opac
+    second: {fileID: 2100000, guid: 4dfc4161891a0794e8a996d0a50ae4e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM84_021_fault
+    second: {fileID: 2100000, guid: fd9d9c159743a7e44b3739e1d118cb83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM84_021_glass
+    second: {fileID: 2100000, guid: 532a3cb8f0f6a1e4ca7767e1a29cdc00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM84_021_rubber
+    second: {fileID: 2100000, guid: 54f9f94c58cc6e840a72bcf092ed5719, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

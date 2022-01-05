@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 7f32f95d1afa62844a2706ff06f39c0d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _bg_light
+    100002: _buiding1_saloon_polySurface1
+    100004: _building_bom1_polySurface1
+    100006: _building_bom_polySurface1
+    100008: _buildings_3_polySurface1
+    100010: _cactus_polySurface1
+    100012: _cowboy_polySurface1
+    100014: _fence_boa_polySurface1
+    100016: _fence_polySurface1
+    100018: _hung_wood_polySurface1
+    100020: _Light_secens
+    100022: _polySurface1
+    100024: _post_telephone_polySurface1
+    100026: _wagon_10_polySurface1
+    100028: _wagon_10_polySurface2
+    100030: _wagon_horse_polySurface2
+    100032: _water_tower_polySurface1
+    100034: _wood_polySurface1
+    100036: //RootNode
+    400000: _bg_light
+    400002: _buiding1_saloon_polySurface1
+    400004: _building_bom1_polySurface1
+    400006: _building_bom_polySurface1
+    400008: _buildings_3_polySurface1
+    400010: _cactus_polySurface1
+    400012: _cowboy_polySurface1
+    400014: _fence_boa_polySurface1
+    400016: _fence_polySurface1
+    400018: _hung_wood_polySurface1
+    400020: _Light_secens
+    400022: _polySurface1
+    400024: _post_telephone_polySurface1
+    400026: _wagon_10_polySurface1
+    400028: _wagon_10_polySurface2
+    400030: _wagon_horse_polySurface2
+    400032: _water_tower_polySurface1
+    400034: _wood_polySurface1
+    400036: //RootNode
+    2100000: lambert7
+    2100002: lambert14
+    2100004: lambert12
+    2100006: _VRayMtl133
+    2100008: _VRayMtl134
+    2100010: lambert8
+    2100012: lambert9
+    2100014: lambert10
+    2100016: lambert11
+    2100018: lambert13
+    2100020: _VRayMtl147
+    2100022: _VRayMtl148
+    2100024: _VRayMtl149
+    2100026: lambert32
+    2100028: lambert31
+    2100030: lambert26
+    2100032: lambert27
+    2100034: lambert30
+    2100036: lambert28
+    2100038: _VRayMtl164
+    2100040: lambert29
+    2100042: _Material2
+    2100044: lambert33
+    2100046: lambert34
+    2100048: lambert37
+    2100050: lambert35
+    2100052: lambert36
+    2100054: lambert39
+    2100056: lambert6
+    2100058: lambert24
+    2100060: lambert25
+    2100062: lambert22
+    2100064: _cowboy_FrontColor1
+    2100066: lambert23
+    2100068: lambert21
+    2100070: lambert4
+    2100072: _fence_FrontColor1
+    2100074: lambert3
+    2100076: lambert2
+    2100078: _Color_D010
+    2100080: _hung_wood_Color_C25
+    2100082: _hung_wood_FrontColor1
+    2100084: __WarmGray8_2
+    2100086: __Dark_Brown_1
+    2100088: lambert17
+    2100090: _VRayMtl119
+    2100092: lambert15
+    2100094: _VRayMtl122
+    2100096: _VRayMtl123
+    2100098: _VRayMtl126
+    2100100: lambert18
+    2100102: lambert19
+    2100104: lambert16
+    2100106: _M_0047_Khaki1
+    2100108: _M_0133_Gray1
+    2100110: _M_0043_SaddleBrown1
+    2100112: _wagon_10_M_0131_Silver1
+    2100114: _M_0134_DimGray1
+    2100116: _wagon_10_Color_I04
+    2100118: _Color_I22
+    2100120: _Color_E13
+    2100122: _VRayMtl130
+    2100124: _VRayMtl125
+    2100126: _VRayMtl124
+    2100128: lambert38
+    2100130: lambert5
+    2100132: lambert20
+    2300000: _buiding1_saloon_polySurface1
+    2300002: _building_bom1_polySurface1
+    2300004: _building_bom_polySurface1
+    2300006: _buildings_3_polySurface1
+    2300008: _cactus_polySurface1
+    2300010: _cowboy_polySurface1
+    2300012: _fence_boa_polySurface1
+    2300014: _fence_polySurface1
+    2300016: _hung_wood_polySurface1
+    2300018: _polySurface1
+    2300020: _post_telephone_polySurface1
+    2300022: _wagon_10_polySurface1
+    2300024: _wagon_10_polySurface2
+    2300026: _wagon_horse_polySurface2
+    2300028: _water_tower_polySurface1
+    2300030: _wood_polySurface1
+    3300000: _buiding1_saloon_polySurface1
+    3300002: _building_bom1_polySurface1
+    3300004: _building_bom_polySurface1
+    3300006: _buildings_3_polySurface1
+    3300008: _cactus_polySurface1
+    3300010: _cowboy_polySurface1
+    3300012: _fence_boa_polySurface1
+    3300014: _fence_polySurface1
+    3300016: _hung_wood_polySurface1
+    3300018: _polySurface1
+    3300020: _post_telephone_polySurface1
+    3300022: _wagon_10_polySurface1
+    3300024: _wagon_10_polySurface2
+    3300026: _wagon_horse_polySurface2
+    3300028: _water_tower_polySurface1
+    3300030: _wood_polySurface1
+    4300000: _polySurface1
+    4300002: _buiding1_saloon_polySurface1
+    4300004: _building_bom_polySurface1
+    4300006: _building_bom1_polySurface1
+    4300008: _buildings_3_polySurface1
+    4300010: _cactus_polySurface1
+    4300012: _cowboy_polySurface1
+    4300014: _fence_polySurface1
+    4300016: _fence_boa_polySurface1
+    4300018: _hung_wood_polySurface1
+    4300020: _post_telephone_polySurface1
+    4300022: _wagon_10_polySurface1
+    4300024: _water_tower_polySurface1
+    4300026: _wood_polySurface1
+    4300028: _wagon_horse_polySurface2
+    4300030: _wagon_10_polySurface2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Asphalt_New
+    second: {fileID: 2800000, guid: 369c0b0730db10b4fa89f7fd9d9123ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blinds_Cellular_White
+    second: {fileID: 2800000, guid: 8bbf705c327bccc47afaac04c83e93ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Rusted
+    second: {fileID: 2800000, guid: 4a60ba833dcb2ea4b9fcce52d1255ece, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Seamed
+    second: {fileID: 2800000, guid: f5bae6ee05403c746afd2307d5f0faa6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roofing_Shingles_GAF_Estates
+    second: {fileID: 2800000, guid: 02583282367ed8b4ba02e10e0ad81f23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Sky_Reflection
+    second: {fileID: 2800000, guid: 9647d391446baeb41a3f5eee35697d33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Bamboo_Medium
+    second: {fileID: 2800000, guid: 337add9f6ed08f947a7b3738d98ce645, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Cherry_Original
+    second: {fileID: 2800000, guid: 24f01b893928425449b76408fc52591b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Floor2
+    second: {fileID: 2800000, guid: b5c4b19ea240cc0488783b58a67235cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Floor_Dark
+    second: {fileID: 2800000, guid: 28b04d7515b7688439282a4097747c7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Floor_Light
+    second: {fileID: 2800000, guid: 67e51ca9309de4e4298b8159e630256a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Grain_Dark
+    second: {fileID: 2800000, guid: 568f0603f7eb12848b8bcfcfdd7c3721, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Grain_Light
+    second: {fileID: 2800000, guid: e75e3d98e178ee942a7e9af999364e03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Grain_Stain
+    second: {fileID: 2800000, guid: 5259ea1bcf7c9834cbad978e618dba24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Lumber_ButtJoined
+    second: {fileID: 2800000, guid: e785efc9af18231488f6ae967c4a2e3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Pole_Utility
+    second: {fileID: 2800000, guid: ac2f85bee929e724eb6aa460f95b5f01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Brick_Antique_1
+    second: {fileID: 2800000, guid: 9718298cb5ccb8e47a2a420016a6f6f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Brick_antique_
+    second: {fileID: 2800000, guid: 9ab2a6c5304e73949b77524afed55e80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _CorrogateRust_
+    second: {fileID: 2800000, guid: a16da75fbfb38274eafc36a30d75a71a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _CorrogateRust_1
+    second: {fileID: 2800000, guid: 4ca9569f6a1a80a48985aa3b58ec6844, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Siding3_
+    second: {fileID: 2800000, guid: 928d2e76258e4044e8bd1de36b29f3f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Siding4_
+    second: {fileID: 2800000, guid: 74663ea338a90164499b8b3947e9b9e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Wood_Cherry_Original_2
+    second: {fileID: 2800000, guid: 5ae63033e6082bf4f8121a6303efb0a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Wood_Lumber_ButtJoined_1
+    second: {fileID: 2800000, guid: f86d7db36153c9f49836501c414a13dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Wood_cherry_
+    second: {fileID: 2800000, guid: ef1e8871c9cd6db4cb609b0f255c5e89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Wood_cherry_2
+    second: {fileID: 2800000, guid: 25eae32acd7bb3c4483b3e4f7295717e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cowboy_01_head1
+    second: {fileID: 2800000, guid: c915ba06b5cba504fbf06038f2f15a69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cowboy_01_legs1
+    second: {fileID: 2800000, guid: 918a6666c3f93a74090b12e69fa4ba44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cowboy_01_torso1
+    second: {fileID: 2800000, guid: 220ef517cca858546b6c151128e1b699, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: eye1
+    second: {fileID: 2800000, guid: c4a2ca778c08de14fa3006c2e36f1f37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: teeth1
+    second: {fileID: 2800000, guid: df82a80a2a371bc4ba47f555991677b6, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
